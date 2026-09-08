@@ -208,6 +208,8 @@ export default function Home() {
 
           <h2 className="section-title">Projects</h2>
 
+          <div className="projects-grid">
+
         {/* Photobooth Finder */}
           <div className="project-card">
 
@@ -388,6 +390,7 @@ export default function Home() {
 
             </div>
 
+          </div>
           </div>
 
         </div>
