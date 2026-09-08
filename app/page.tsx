@@ -31,14 +31,15 @@ export default function Home() {
           <h1>Prarthana.</h1>
 
           <h2>
-            I build technology that turns ideas and data into useful solutions.
+            I bring structure to complexity through data, design, and collaboration.
           </h2>
 
           <p className="about-text">
-            I'm interested in technology, data, product development,
-            and solving real-world problems. My experience spans software
-            development, data projects, teaching, project management,
-            and leadership.
+            If I were to describe myself in 3 words I would say: organized, responsible, and structered. That shows up in both my work and everyday life.
+
+I love using data to make sense of things; it's just how my brain works. I also get a lot of energy from bringing people together around a shared goal, and I'm always thinking about how to make products more useful and enjoyable for the people who actually use them.
+
+Community-focused work matters a lot to me too, so I'm especially drawn to projects that feel practical, thoughtful, and meaningful.
           </p>
 
           <div className="hero-buttons">
@@ -441,19 +442,19 @@ export default function Home() {
 
           <div className="contact-links">
 
-            <a href="mailto:youremail@email.com">
+            <a href="mailto:pbiswas.aas@gmail.com?subject=Hi%20Prarthana!%20Let's%20Connect">
               Email
             </a>
 
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/prarthana-biswas/"
               target="_blank"
             >
               LinkedIn
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/prarwas"
               target="_blank"
             >
               GitHub
