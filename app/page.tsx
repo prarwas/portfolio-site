@@ -216,8 +216,9 @@ export default function Home() {
               <h3>Photobooth Finder</h3>
 
               <p>
-                A data-driven application built to organize and explore
-                hundreds of photobooth locations around the world.
+                An interactive geospatial data application for discovering nearby photobooths and analyzing local photobooth availability.
+                Photobooth Finder transforms a personally curated dataset of 500+ photobooth locations into a searchable, location-aware application. 
+                The project combines data collection, ETL, data validation, SQL, geospatial analysis, visualization, and interactive web development to help users identify nearby photobooths and understand how availability varies by location and style.
               </p>
 
               <div className="tech-stack">
@@ -249,14 +250,16 @@ export default function Home() {
               </p>
 
               <div className="tech-stack">
-                <span>Python</span>
-                <span>TypeScript</span>
-                <span>Next.js</span>
+                <span>SQL</span>
+                <span>Data Modeling</span>
+                <span>Relational Database Design</span>
+                <span>Data Analysis</span>
+                <span>Database Normalization</span>
+                <span>Data Integrity</span>
               </div>
 
               <div className="project-links">
-                <a href="#">GitHub</a>
-                <a href="#">View Project</a>
+                <a href="/Minecraft_Game_Data_Project_Overview.pdf" target="_blank" rel="noopener noreferrer">Project Overview</a>
               </div>
 
             </div>
@@ -277,14 +280,17 @@ export default function Home() {
               </p>
 
               <div className="tech-stack">
-                <span>Python</span>
-                <span>TypeScript</span>
-                <span>Next.js</span>
+                <span>User Research</span>
+                <span>UX Design</span>
+                <span>Figma</span>
+                <span>Product Management</span>
+                <span>Competitive Analysis</span>
+                <span>User Stories</span>
+                <span>Usability Testing</span>
               </div>
 
               <div className="project-links">
-                <a href="#">GitHub</a>
-                <a href="#">View Project</a>
+                <a href="/SEAnima_Project_Overview.pdf" target="_blank" rel="noopener noreferrer">Project Overview</a>
               </div>
 
             </div>
@@ -305,14 +311,17 @@ export default function Home() {
               </p>
 
               <div className="tech-stack">
-                <span>React</span>
-                <span>TypeScript</span>
-                <span>Next.js</span>
+                <span>GIS</span>
+                <span>Excel</span>
+                <span>Data Management</span>
+                <span>Data Visualization</span>
+                <span>Sustainability</span>
+                <span>Team Collaboration</span>
               </div>
 
               <div className="project-links">
-                <a href="#">GitHub</a>
-                <a href="#">View Project</a>
+                <a href="/Big_Reuse_Project_Overview.pdf" target="_blank" rel="noopener noreferrer">Project Overview</a>
+                <a href="https://www.google.com/maps/d/u/0/viewer?mid=1C9jDEofIcPTiD2IrzsA0-dyLqXJatoQ&ll=40.73407540037804%2C-73.55230155000001&z=10" target="_blank">View Project</a>
               </div>
 
             </div>
@@ -324,11 +333,11 @@ export default function Home() {
 
             <div>
 
-              <h3>Health & Wellness Tracker: Tech:NYC Intern Project</h3>
+              <h3>HealthWell: Tech:NYC Intern Project</h3>
 
               <p>
-                Built a web application to help users track nutritional intake using HTML, CSS, JavaScript, and external APIs.
-                Applied user-centered design principles to create an intuitive and functional interface
+                Designed a website that intends to help users manage their health and wellbeing by tracking their nutritional intake. 
+                Created a double search engine that serves as a recipe finder with the use of HTML, Javascript, CSS and APIs.
 
               </p>
 
@@ -339,8 +348,8 @@ export default function Home() {
               </div>
 
               <div className="project-links">
-                <a href="#">GitHub</a>
-                <a href="#">View Project</a>
+                <a href="/HealthWell_Project_Overview.pdf" target="_blank" rel="noopener noreferrer">Project Overview</a>
+                <a href="https://sinboxg.wixsite.com/food-tracker" target="_blank">View Project Demo</a>
               </div>
 
             </div>
@@ -363,8 +372,12 @@ export default function Home() {
 
               <div className="tech-stack">
                 <span>Python</span>
-                <span>TypeScript</span>
-                <span>Next.js</span>
+                <span>Pandas</span>
+                <span>Data Processing</span>
+                <span>Decision Logic</span>
+                <span>Interactive Applications</span>
+                <span>User-Centered Design</span>
+                <span>Sustainability</span>
               </div>
 
               <div className="project-links">
